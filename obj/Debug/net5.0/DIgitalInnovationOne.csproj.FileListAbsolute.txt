@@ -1,0 +1,16 @@
+C:\C#Workspace\DIgitalInnovationOne\bin\Debug\net5.0\DIgitalInnovationOne.exe
+C:\C#Workspace\DIgitalInnovationOne\bin\Debug\net5.0\DIgitalInnovationOne.deps.json
+C:\C#Workspace\DIgitalInnovationOne\bin\Debug\net5.0\DIgitalInnovationOne.runtimeconfig.json
+C:\C#Workspace\DIgitalInnovationOne\bin\Debug\net5.0\DIgitalInnovationOne.runtimeconfig.dev.json
+C:\C#Workspace\DIgitalInnovationOne\bin\Debug\net5.0\DIgitalInnovationOne.dll
+C:\C#Workspace\DIgitalInnovationOne\bin\Debug\net5.0\ref\DIgitalInnovationOne.dll
+C:\C#Workspace\DIgitalInnovationOne\bin\Debug\net5.0\DIgitalInnovationOne.pdb
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.csprojAssemblyReference.cache
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.AssemblyInfoInputs.cache
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.AssemblyInfo.cs
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.dll
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\ref\DIgitalInnovationOne.dll
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.pdb
+C:\C#Workspace\DIgitalInnovationOne\obj\Debug\net5.0\DIgitalInnovationOne.genruntimeconfig.cache
