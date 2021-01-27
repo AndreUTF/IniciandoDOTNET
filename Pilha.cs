@@ -1,6 +1,6 @@
 using System;
 
-namespace EstruturaDoPrograma.Exemplos
+namespace DIgitalInnovationOne
 {
     public class Pilha
     {
